@@ -38,7 +38,7 @@ The Loan Approval System is a machine learning-powered application that predicts
 
 ## Technology Stack  
 - **Backend**: Django Rest Framework (DRF)  
-- **Database**: SQL (e.g., SQLite, PostgreSQL)  
+- **Database**: SQL 
 - **Machine Learning**: Neural Network, Python, Tensorflow, Jupyter notebook 
 - **Frontend**: Django templates   
 
